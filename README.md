@@ -15,5 +15,11 @@ TITLE-ABS-KEY ( ( intent*  OR  motivation* )  AND
 ( LIMIT-TO ( SUBJAREA ,  ``COMP'' ) )  AND  ( LIMIT-TO ( LANGUAGE ,  ``English'' ) )
 ```
 
-## Additional Files
+## Additional File
+
+`data-file.xlsx` is a spreadsheet containing six tabs/sheets:
+The `Instructions` sheet explains more about the remainder of the sheet.
+The `Grouping` tab contains the segment extracted from the papers that were moved forward for textual analysis are labeled. 
+The emerged labels are: intention, goal, and emotional goal. 
+The `Intent`, `Goal`, and `Emotional Goal` sheets report the themes emerged in the analysis of the fragments labeled in each of the other sheets.
 
